@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 10px;
+       
+    
+}
+h5 {
+    font-family: serif;
+
+}
+
+.page {
+    text-align: center;
+   
+}
+.blue {
+	position: absolute;
+	left: 2px;
+}
+
+.exp {
+	position: relative;
+
+}
